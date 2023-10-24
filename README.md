@@ -1,2 +1,2 @@
 # risco_da_automedicacao
-![Texto alternativo](caminho/para/a/imagem.jpg)
+![Texto alternativo](antibiotics-750x393.jpg)
